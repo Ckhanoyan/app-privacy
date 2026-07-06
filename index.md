@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated: June 24, 2026**
+**Last updated: July 5, 2026**
 
 ## Overview
 
-Shelfie ("the App") is a friends-only marketplace where you can buy and sell items within your trusted circle. This privacy policy explains what information we collect, how we use it, and your rights.
+Marketpals ("the App") is a friends-only marketplace where you can buy and sell items within your trusted circle. This privacy policy explains what information we collect, how we use it, and your rights.
 
 ## Information we collect
 
